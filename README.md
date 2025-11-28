@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Yash Chauhan - Portfolio
+
+A professional portfolio website showcasing Full Stack Web Development skills and projects.
+
+## Adding Your Professional Photo
+
+To add your professional photo to the portfolio:
+
+1. Place your professional photo in the `public` folder
+2. Name it `profile-photo.png` (or update the path in `src/App.js` if using a different name)
+3. Recommended image specifications:
+   - Format: JPG or PNG
+   - Size: 400x400px or larger (square aspect ratio works best)
+   - File size: Optimized for web (under 500KB recommended)
+
+The image will automatically display in the hero section with professional styling and animations.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
