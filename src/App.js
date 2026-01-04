@@ -19,14 +19,22 @@ const summary =
 const heroStats = [
   { value: '5+', label: 'MERN builds shipped' },
   { value: '30%↑', label: 'API efficiency improvements' },
+<<<<<<< HEAD
   { value: '10+', label: 'Vercel deployments' },
+=======
+  { value: '5+', label: 'Vercel deployments' },
+>>>>>>> 5f8ed50fb356fc1438905444cbba7ea4c23c6c19
 ];
 
 const experiences = [
   {
     company: 'Freelance Web Developer (Remote)',
     role: 'Full Stack MERN Developer',
+<<<<<<< HEAD
     period: 'Jan 2025 — Aug 2025',
+=======
+    period: 'Jan 2024 — Present',
+>>>>>>> 5f8ed50fb356fc1438905444cbba7ea4c23c6c19
     summary:
       'Partnering with founders and small businesses to design, develop, and maintain full-stack products with modern tooling.',
     achievements: [
@@ -39,6 +47,7 @@ const experiences = [
 
 const projects = [
   {
+<<<<<<< HEAD
     name: 'Task Management App',
     description:
       'A full-featured task management application with drag-and-drop functionality, due dates, and team collaboration features built with MERN stack.',
@@ -58,6 +67,27 @@ const projects = [
       'Fitness experience built with RapidAPI data, curated workout plans, and a frictionless discovery flow.',
     tags: ['React', 'RapidAPI', 'UX'],
     link: 'https://gym-application-adj9.vercel.app/',
+=======
+    name: 'AI ChatBot',
+    description:
+      'Conversational assistant powered by OpenAI APIs with context-aware messaging, secure auth, and chat history.',
+    tags: ['MERN', 'OpenAI API', 'Realtime UX'],
+    link: 'https://ai-chatbot-flame-sigma.vercel.app/',
+  },
+  {
+    name: 'Weather Forecast App',
+    description:
+      'Responsive React app that surfaces hyperlocal forecasts, saved locations, and API-driven visual insights.',
+    tags: ['React', 'REST APIs', 'Performance'],
+    link: 'https://weather-forcast-git-main-yashs-projects-a108f729.vercel.app',
+  },
+  {
+    name: 'Gym App',
+    description:
+      'Fitness experience built with RapidAPI data, curated workout plans, and a frictionless discovery flow.',
+    tags: ['React', 'RapidAPI', 'UX'],
+    link: 'https://gym-application-topaz.vercel.app/',
+>>>>>>> 5f8ed50fb356fc1438905444cbba7ea4c23c6c19
   },
 ];
 
